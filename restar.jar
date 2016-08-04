@@ -1,0 +1,11 @@
+public class Restar{
+
+	public class void main(){
+		numero1 = 3.4
+		numero2 =5.4
+
+		resultado = numero2 - numero1;
+
+		system.out.println("la resta es = "+resultado);
+	}
+}
